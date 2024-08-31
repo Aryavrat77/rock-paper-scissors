@@ -1,4 +1,4 @@
-# WakeUpTimes App
+# Rock Paper Scissors Game
 
 This is a simple web application that implements a basic Rock, Paper, Scissors game.  
 
